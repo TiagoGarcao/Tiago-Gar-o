@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 Here are some of the projects I've been working on:
 
-- [Project 1](Link to Project 1)
+- [Project 1]([Leia a documentação](docs/documentacao.md))
   - Description of Project 1
 - [Project 2](Link to Project 2)
   - Description of Project 2
