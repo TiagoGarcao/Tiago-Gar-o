@@ -36,7 +36,7 @@ Here are some of the projects I've been working on:
 
 ## Connect with Me
 
-- [LinkedIn](Your LinkedIn Profile Link)
+- [LinkedIn]([Your LinkedIn Profile Link](https://www.linkedin.com/in/tiagogarcao/))
 - [Twitter](Your Twitter Profile Link)
 - [Website](Your Personal Website Link)
 
