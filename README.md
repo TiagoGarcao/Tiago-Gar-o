@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ## About Me
 
-- 🔭 I’m currently working on [Atualmente estou trabalhando em desenvolvimento de software com foco em inteligência artificial.]
+- 🔭 I’m currently working on [Desenvolvimento de software com foco em inteligência artificial.]
 - 🌱 I’m currently learning [Current Learning Topic]
 - 👯 I’m looking to collaborate on [Collaboration Interests]
 - 🤔 I’m looking for help with [Help Needed]
