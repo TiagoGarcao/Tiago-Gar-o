@@ -5,12 +5,12 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ## About Me
 
 - 🔭 I’m currently working on [Desenvolvimento de software com foco em inteligência artificial.]
-- 🌱 I’m currently learning [Current Learning Topic]
-- 👯 I’m looking to collaborate on [Collaboration Interests]
-- 🤔 I’m looking for help with [Help Needed]
-- 💬 Ask me about [Topics You Are Knowledgeable About]
+- 🌱 I’m currently learning [novas técnicas de machine learning e aprimorando minhas habilidades em análise de dados.]
+- 👯 I’m looking to collaborate on [de código aberto que promovam a inclusão e a educação tecnológica.]
+- 🤔 I’m looking for help with [com a implementação de algoritmos avançados em projetos reais.]
+- 💬 Ask me about [Python, desenvolvimento web, e melhores práticas de programação.]
 - 📫 How to reach me: [tiago.garcao@outlook.com]
-- ⚡ Fun fact: [A Fun Fact About You]
+- ⚡ Fun fact: [Tenho dente de leite ate hoje!]
 
 ## My Skills
 
