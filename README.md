@@ -4,13 +4,13 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ## About Me
 
-- 🔭 I’m currently working on [Desenvolvimento de software com foco em inteligência artificial.]
-- 🌱 I’m currently learning [novas técnicas de machine learning e aprimorando minhas habilidades em análise de dados.]
-- 👯 I’m looking to collaborate on [de código aberto que promovam a inclusão e a educação tecnológica.]
-- 🤔 I’m looking for help with [com a implementação de algoritmos avançados em projetos reais.]
-- 💬 Ask me about [Python, desenvolvimento web, e melhores práticas de programação.]
-- 📫 How to reach me: [tiago.garcao@outlook.com]
-- ⚡ Fun fact: [Tenho dente de leite ate hoje!]
+- 🔭 I’m currently working on Desenvolvimento de software com foco em inteligência artificial.
+- 🌱 I’m currently learning novas técnicas de machine learning e aprimorando minhas habilidades em análise de dados.
+- 👯 I’m looking to collaborate on de código aberto que promovam a inclusão e a educação tecnológica.
+- 🤔 I’m looking for help with com a implementação de algoritmos avançados em projetos reais.
+- 💬 Ask me about Python, desenvolvimento web, e melhores práticas de programação.
+- 📫 How to reach me: tiago.garcao@outlook.com
+- ⚡ Fun fact: Tenho dente de leite ate hoje!
 
 ## My Skills
 
