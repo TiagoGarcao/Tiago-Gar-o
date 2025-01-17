@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 - 👯 I’m looking to collaborate on [Collaboration Interests]
 - 🤔 I’m looking for help with [Help Needed]
 - 💬 Ask me about [Topics You Are Knowledgeable About]
-- 📫 How to reach me: [Your Email Address]
+- 📫 How to reach me: [tiago.garcao@outlook.com]
 - ⚡ Fun fact: [A Fun Fact About You]
 
 ## My Skills
